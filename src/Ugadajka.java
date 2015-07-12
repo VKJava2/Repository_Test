@@ -22,7 +22,7 @@ public class Ugadajka {
 
 		} while (!s.equals("="));
 
-		System.out.print("Chislo ugadano1: " + chislo);
+		System.out.print("Chislo ugadano!: " + chislo);
 		scanner.close();
 	}
 }
