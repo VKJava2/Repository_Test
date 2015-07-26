@@ -21,8 +21,7 @@ public class Ugadajka {
 			}
 
 		} while (!s.equals("="));
-
-		System.out.print("Chislo ugadano!: " + chislo);
+ 		System.out.print("Vashe chislo ugadano: " + chislo);
 		scanner.close();
 	}
 }
